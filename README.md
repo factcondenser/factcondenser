@@ -1,4 +1,10 @@
-[![](https://github-readme-stats.vercel.app/api?username=factcondenser&show_icons=true&count_private=true&theme=radical)](https://github.com/factcondenser/github-readme-stats)
+<span>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=factcondenser&show_icons=true&count_private=true&theme=chartreuse-dark" />
+</span>
+<span>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=factcondenser&theme=chartreuse-dark&layout=compact" />
+</span>
+
 
 <!--
 **factcondenser/factcondenser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
