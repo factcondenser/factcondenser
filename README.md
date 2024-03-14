@@ -1,8 +1,8 @@
 <span>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=factcondenser&show_icons=true&count_private=true&theme=chartreuse-dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=factcondenser&show_icons=true&count_private=true&theme=radical" />
 </span>
 <span>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=factcondenser&theme=chartreuse-dark&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=factcondenser&theme=radical&layout=compact" />
 </span>
 
 
